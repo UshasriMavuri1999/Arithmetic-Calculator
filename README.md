@@ -1,20 +1,20 @@
-Creating an Arithmetic Calculator.
+# Creating an Arithmetic Calculator.
 
-DESCRIPTION
+### DESCRIPTION
 
 Project objective:
 
-As a developer, write a program to create an arithmetic calculator.
+> As a developer, write a program to create an arithmetic calculator.
 
  
 
-Background of the problem statement:
+#### Background of the problem statement:
 
 As a developer, write a Java code to create a calculator to perform the four basic arithmetic operations (addition, subtraction, multiplication, and division).
 
  
 
-You must use the following:
+#### You must use the following:
 
 Eclipse/IntelliJ: An IDE to code for the application
 Java: A programming language
@@ -23,7 +23,15 @@ GitHub: To store the application code and track its versions
 Core Java concepts: Variables, data types, operators, type casting, control statements, class, objects, access specifiers, and core keywords like final, this, and static
  
 
-Following requirements should be met:
+#### Following requirements should be met:
 
-The versions of the code should be tracked on GitHub repositories.
-The calculator should work properly.
+> The versions of the code should be tracked on GitHub repositories.
+> The calculator should work properly.
+
+#### Screenshots
+
+![console](https://github.com/UshasriMavuri1999/Arithmetic-Calculator/blob/main/screenshots/console1.png)
+
+![console](https://github.com/UshasriMavuri1999/Arithmetic-Calculator/blob/main/screenshots/console2.png)
+
+![console](https://github.com/UshasriMavuri1999/Arithmetic-Calculator/blob/main/screenshots/console3.png)
