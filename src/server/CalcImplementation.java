@@ -8,6 +8,10 @@ public class CalcImplementation implements Calc {
     public final static String CHARACTER_DIV = "/";
     public final static String CHARACTER_MUL = "*";
     
+    public CalcImplementation(){
+    	System.out.println("Executing " + this.getClass());
+    }
+    
 	public float operation(float val1, float val2, String op) throws Exception
     {
         if(op.equals(CHARACTER_ADD))

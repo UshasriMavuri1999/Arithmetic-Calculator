@@ -9,6 +9,9 @@ import server.CalcImplementation;
 
 public class CalcClient
 {
+	CalcClient(){
+		System.out.println("Executing " + this.getClass());
+	}
     public void showMenu()
     {
         System.out.println("----------------------------------");
@@ -54,10 +57,6 @@ public class CalcClient
         return val;
     }
 
-
-
-    
-	
 	public static void main(String args[])
     {
 
@@ -67,8 +66,7 @@ public class CalcClient
         
         try
         {
-
-           
+ 
             float val1 = 0;
             float val2 = 0;
             float res = 0;
